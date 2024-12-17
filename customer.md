@@ -803,7 +803,7 @@ original.plot()
 
 
     
-![png](output_12_1.png)
+![png](newfolder/output_12_1.png)
     
 
 
@@ -821,7 +821,7 @@ sns.boxplot(customer['CUS_Month_Income'])
 
 
     
-![png](output_13_1.png)
+![png](newfolder/output_13_1.png)
     
 
 
@@ -876,7 +876,7 @@ plt.show()
 
 
     
-![png](output_18_0.png)
+![png](newfolder/output_18_0.png)
     
 
 
@@ -904,7 +904,7 @@ plt.show()
 
 
     
-![png](output_21_0.png)
+![png](newfolder/output_21_0.png)
     
 
 
@@ -1183,7 +1183,7 @@ sns.boxplot(customer['YEARS_WITH_US'])
 
 
     
-![png](output_33_1.png)
+![png](newfolder/output_33_1.png)
     
 
 
@@ -1197,7 +1197,7 @@ plt.show()
 
 
     
-![png](output_35_0.png)
+![png](newfolder/output_35_0.png)
     
 
 
@@ -1221,7 +1221,7 @@ plt.tight_layout()
 
 
     
-![png](output_36_0.png)
+![png](newfolder/output_36_0.png)
     
 
 
@@ -1258,7 +1258,7 @@ sns.pairplot(customer)
 
 
     
-![png](output_39_1.png)
+![png](newfolder/output_39_1.png)
     
 
 
@@ -1453,7 +1453,7 @@ sns.boxplot(list['CUS_Month_Income'])
 
 
     
-![png](output_41_1.png)
+![png](newfolder/output_41_1.png)
     
 
 
@@ -1482,7 +1482,7 @@ plt.tight_layout()
 
 
     
-![png](output_43_0.png)
+![png](newfolder/output_43_0.png)
     
 
 
@@ -1500,7 +1500,7 @@ sns.countplot(x=list['CUS_Gender'],hue=list['Status'])
 
 
     
-![png](output_44_1.png)
+![png](newfolder/output_44_1.png)
     
 
 
@@ -1519,7 +1519,7 @@ sns.countplot(x=list['CUS_Marital_Status'],hue=list['Status'])
 
 
     
-![png](output_45_1.png)
+![png](newfolder/output_45_1.png)
     
 
 
@@ -1537,7 +1537,7 @@ sns.countplot(customer['CUS_Marital_Status'])
 
 
     
-![png](output_46_1.png)
+![png](newfolder/output_46_1.png)
     
 
 
@@ -1556,7 +1556,7 @@ sns.countplot(customer['Status'])
 
 
     
-![png](output_47_1.png)
+![png](newfolder/output_47_1.png)
     
 
 
@@ -2810,7 +2810,7 @@ plt.show()
 
 
     
-![png](output_92_0.png)
+![png](newfolder/output_92_0.png)
     
 
 
@@ -2825,7 +2825,7 @@ plt.show()
 
 
     
-![png](output_93_0.png)
+![png](newfolder/output_93_0.png)
     
 
 
@@ -3161,7 +3161,7 @@ plt.show()
 
 
     
-![png](output_109_0.png)
+![png](newfolder/output_109_0.png)
     
 
 
@@ -3252,7 +3252,7 @@ plt.show()
 
 
     
-![png](output_115_1.png)
+![png](newfolder/output_115_1.png)
     
 
 
@@ -3271,7 +3271,7 @@ customer.head()
 
 
     
-![png](output_116_0.png)
+![png](newfolder/output_116_0.png)
     
 
 
@@ -3361,7 +3361,7 @@ plt.show()
 
 
     
-![png](output_120_0.png)
+![png](newfolder/output_120_0.png)
     
 
 
@@ -3383,7 +3383,7 @@ plt.show()
 
 
     
-![png](output_121_0.png)
+![png](newfolder/output_121_0.png)
     
 
 
@@ -3407,7 +3407,7 @@ plt.show()
 
 
     
-![png](output_122_0.png)
+![png](newfolder/output_122_0.png)
     
 
 
@@ -3436,7 +3436,7 @@ plt.show()
 
 
     
-![png](output_123_1.png)
+![png](newfolder/output_123_1.png)
     
 
 
@@ -3459,7 +3459,7 @@ plt.show()
 
 
     
-![png](output_124_0.png)
+![png](newfolder/output_124_0.png)
     
 
 
@@ -3700,7 +3700,7 @@ print(len(feature_names), len(importance))
 
 
     
-![png](output_141_0.png)
+![png](newfolder/output_141_0.png)
     
 
 
@@ -3799,6 +3799,6 @@ plt.show()
 
 
     
-![png](output_148_0.png)
+![png](newfolder/output_148_0.png)
     
 
